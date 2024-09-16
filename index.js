@@ -6,7 +6,7 @@ app.get("/", (req, res) => {
   res.json([
     {
       id: "1",
-      name: "Koushik added new feature",
+      name: "Koushik added new feature for practice",
       age: "23",
     },
   ]);
